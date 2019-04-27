@@ -12,3 +12,10 @@
   .scores {
     float: right;
   }
+
+  .banner {
+    background: lightblue;
+    color: white;
+    text-align: center;
+    height: 100%;
+  }
